@@ -364,7 +364,7 @@ body {
 	display: block;
 	background-image: linear-gradient(45deg, var(--base) 25%, var(--complimentary2));
 	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
+	/**-webkit-text-fill-color: transparent;**/
 	-moz-background-clip: text;
 	-moz-text-fill-color: transparent;
 }
